@@ -1,7 +1,7 @@
 ---
 # front matter tells Jekyll to process Liquid
-layout: splash
-author_profile: true
+layout: home
+author_profile: false
 permalink: /amplicon/
 ---
 # 16S Amplicon sequencing
