@@ -1,4 +1,72 @@
 ---
-layout: splash
-author_profile: true
+# front matter tells Jekyll to process Liquid
+layout: default
+header:
+  overlay_image: /assets/img/3_1280.png
+  overlay_color: black
+  image_description: NGS Sequencing
+
 ---
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+
+</head>
+
+<body>
+
+<h1 align="center"> {{"Our services"}} </h1>
+  <table style="width:100%; color:#2F3942;" align="center">
+    <tr>
+      <td><img src="assets/img/bacteria.jpg"></td>
+      <td bgcolor="#F7F9F9", width=50%>
+        <h2 align="center" id="bacterial_WGS">Bacterial Whole Genome Sequencing </h2>
+        <p>We offer a comprehensive DNA to bioproject pipeline. For only 80 AUD, you will get the sequencing data, the assembly of the bacterial genome and the free service for submitting your data onto the NCBI database with 1-year embargo.
+          We do give discount for large scale samples.
+          </p>
+        <p align="center"> <button type="button" id="more_info_btn" value="demo"><a href="/wgs/">More info</a></button></p>
+    </td>
+    </tr>
+
+    <tr>
+      <td bgcolor="#F7F9F9" width=50%>
+        <h2 align="center">16S Amplicon Sequencing </h2>
+        <p align="left">
+          Services include:
+          <li>QC genomic DNA</li><br>
+          <li>Library preparation </li><br>
+          <li>Sequencing on Miseq V3 2x300 bp </li><br>
+          <li>Minimum 80,000 reads per sample </li><br>
+          </p>
+        <p align="center"> <button type="button" id="more_info_btn" value="demo"><a href="/amplicon/">More info</button></p>
+      </td>
+      <td><p align="center"><img src="assets/img/louis-reed-pwcKF7L4-no-unsplash.jpg" width="500" height="300"></p></td>
+    </tr>
+
+    <tr>
+      <td><img src="assets/img/martin-adams-sq1dNSxyGdU-unsplash.jpg" width="450" height="350"></td>
+      <td bgcolor="#F7F9F9">
+        <h2 align="center">OTHER TYPES OF SEQUENCING </h2>
+        <p align="left">
+          We also offer other types of sequencing including:
+          <li>Metagenomics</li><br>
+          <li>RNA sequencing</li><br>
+          <li>Hi-C</li><br>
+          Please contact us for more information.<br>
+          </p>
+        <p align="center"> <button type="button" id="more_info_btn" value="demo"><a href="#contact_us">More info</a></button></p>
+
+    </td>
+    </tr>
+  </table>
+  <br>
+  <div class="container" id="contact_us">
+    <h1 style="font-family:arial;color:#2F3942;" align=center><a name="contact_us">Contact Us</a></h1>
+      <p style="font-family:arial;color:#2F3942;" align=center> Get in touch with the UTS Sequencing Facility to learn more about our services and what we can do for you. <br>
+          E-mail: ngsfacility@uts.edu.au <br>
+          Call: (+61) 2 9514 1601</p>
+
+  </div>
+</body>
+
+</html>
