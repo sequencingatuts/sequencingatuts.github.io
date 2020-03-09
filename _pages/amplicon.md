@@ -4,7 +4,6 @@ layout: home
 author_profile: false
 permalink: /amplicon/
 ---
-# 16S Amplicon sequencing
 
 The service includes:
 - QC genomic DNA:
