@@ -21,7 +21,7 @@ The service includes:
 |        |                  |  806R	 |  GGACTACNNGGGTATCTAAT     |
 
 |Number of samples | Price for UTS researchers |	Price for non-external researchers |
-|:-----------------|:-------------------------:|------------------------------------:|
+|:-----------------|:-------------------------:|:-----------------------------------:|
 |1-48              |	$75	                     |$85                                  |
 |More than 48 	   |  $65	                     |$75                                  |
 
