@@ -2,10 +2,12 @@
 main:
   - title: "Home"
     url: /
-  - title: "WGS"
-    url: /wgs/
-  - title: "16S Amplicon Sequencing"
-    url: /amplicon/
+  - title: "Services"
+    sublinks:
+      - title: "Bacterial WGS"
+        url: /wgs/
+      - title: "16S Amplicon Sequencing"
+        url: /amplicon/
   - title: "Contact us"
     url: /#contact_us
   # - title: "Sample Collections"
