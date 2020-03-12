@@ -4,7 +4,7 @@ layout: home
 author_profile: false
 permalink: /wgs/
 ---
- Bacterial Whole Genome Sequencing
+<h1> Bacterial Whole Genome Sequencing </h1>
 
 We offer sequencing and analysis packages. All packages include QC of genomic DNA, library preparation using Nextera Flex, QC of the library and sequencing. The turnaround time is 6-8 weeks.
 
