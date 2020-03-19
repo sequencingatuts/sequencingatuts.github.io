@@ -10,14 +10,14 @@ We offer sequencing and analysis packages. All packages include QC of genomic DN
 
 We also provide a discount for large scale sequencing (96+ samples). Please contact us for more information.
 
-## Submitting your data to NCBI with us and save
+## Submit your data to NCBI with us and save
 
-Vast amounts of sequencing data never become available in public databases (NCBI SRA, ENA) due to the technical challenges involved in the submission process. To encourage the submission of NGS sequencing data to the NCBI database, we offer a discount if you choose to submit your genomes and sequence data via us. The benefits include:
+Vast amounts of sequencing data never become available in public databases (NCBI SRA, ENA) due to the technical challenges involved in the submission process. In the spirit of open science, we offer a discount if you choose to allow us to submit the data to the public NCBI database on your behalf. The benefits include:
 
 - Save time and money by avoiding the burden of submitting the data yourself. We have a form to help you provide all the sample details needed for the submission. This also helps to manage your samples and your projects.
 - We provide basic bioinformatics to ensure that the data is of high quality before submission to the NCBI database. We will identify and remove any sequences that might be contaminants in your samples, resulting in clean data for submission.
 - Free data archival: sleep easy, knowing that your data is archived and backed up safely in international databases and not on a failure-prone local hard drive.
-- One year embargoes: Your sequencing data will be embargoed for a maximum of one year. Your assembly data, however, can be put on embargo for longer.
+- One year embargoes: Your sequencing data will be embargoed for a maximum of one year.
 
 ## Sequencing & Analysis Packages
 
