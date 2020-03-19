@@ -26,3 +26,4 @@ The service includes:
 |More than 48 	   |  $65	                     |$75                                  |
 
 For other amplicon sequencing services such as ITS, please contact the facility for a quote: ngsfacility@uts.edu.au
+
