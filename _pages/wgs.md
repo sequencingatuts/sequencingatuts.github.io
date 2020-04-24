@@ -29,8 +29,10 @@ Vast amounts of sequencing data never become available in public databases (NCBI
 |30x Coverage of 5 Mbp genome        |       ✔︎      |     ✔︎    |    ✔︎   |
 |Basic bioinformatics analysis       |       ✔︎      |     ✔︎    |        |
 |Bacterial Genome Assembly           |       ✔︎      |     ✔︎    |        |
-|Data submission on NCBI database    |       ✔︎      |          |        |
+|Data submission on NCBI database*   |       ✔︎      |          |        |
 |:===================================|:============:|:========:|:======:|
 |Price per sample                                                       |
-|UTS Researchers                     |       65     |    90    |   80   |
-|Non-UTS Researchers                 |       80     |   110    |   100  |
+|UTS Researchers                     |       65<sup>*</sup>    |    90    |   80   |
+|Non-UTS Researchers                 |       80<sup>*</sup>     |   110    |   100  |
+
+*The data will need to be submitted by UTS sequencing facility through the NCBI database to be eligible for this price. The data will be embargo for 1 year. The facility does not own the data.
