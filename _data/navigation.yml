@@ -8,8 +8,8 @@ main:
         url: /wgs/
       - title: "16S Amplicon Sequencing"
         url: /amplicon/
-      - title: "Low Coverage Express Sequencing"
-        url: /low_coverage_express/
+      - title: "Small Target Express Sequencing"
+        url: /small_target_express/
   - title: "Contact us"
     url: /#contact_us
   # - title: "Sample Collections"

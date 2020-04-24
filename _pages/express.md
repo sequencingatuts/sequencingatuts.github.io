@@ -2,7 +2,7 @@
 # front matter tells Jekyll to process Liquid
 layout: home
 author_profile: false
-permalink: /low_coverage_express/
+permalink: /small_target_express/
 ---
 <h1> Low Coverage Express Sequencing Service </h1>
 
