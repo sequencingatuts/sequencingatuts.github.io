@@ -10,8 +10,8 @@ main:
         url: /amplicon/
       - title: "Small Target Express Sequencing"
         url: /small_target_express/
-  #- title: "Sample Submission Guide"
-  #  url: /submission_guide/
+  - title: "Sample Submission Guide"
+    url: /submission_guide/
   - title: "Contact us"
     url: /#contact_us
   # - title: "Sample Collections"
