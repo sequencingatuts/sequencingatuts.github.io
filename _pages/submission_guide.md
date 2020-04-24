@@ -79,7 +79,7 @@ The facility will assess the data output to determine whether it has passed or f
 ### Data Delivery
 Data is shared with the client through a download link that is emailed to the client. We will then move forward to invoicing for your project.
 
-For further information please contact:
-Dr Kay Anantanawat
-Email: kay.anantanawat@uts.edu.au
-Phone: +61 2 9514 1601
+For further information please contact:<br>
+Dr Kay Anantanawat<br>
+Email: kay.anantanawat@uts.edu.au<br>
+Phone: +61 2 9514 1601<br>
