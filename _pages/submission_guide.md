@@ -6,11 +6,14 @@ permalink: /submission_guide/
 ---
 <h1> Sample Submission Guide </h1>
 
-## Sample Submission
+<h2> Sample Submission </h2>
 - Complete and email the sample submission form and additional documents BEFORE shipping your samples to us.
 - Ensure that your samples meet the quality and quantity requirement (see below). Samples which do not meet these criteria will not be processed.
 - Prepare your samples in a 96-well plate or in a 1.5 ml tube format according to the guideline below. Failing to comply may lead to the delay in the processing and additional charge may apply.
 - Please submit your samples TOGETHER with the sample submission form.
+
+## Sample Submission Form
+[Sample Submission Form]({{ site.baseurl }}{% link /assets/files/UTS_Seq_Sample_Submission_ Sheet_V4.xltx %})
 
 ## Sample Quality and Quantity Requirement
 Once we receive your samples we will perform quality control analysis to determine the quality, concentration and volume of your samples to ensure that we have a sufficient amount. We strongly recommend that you perform your own sample QC to ensure the correct concentration of sample is shipped. This will help to expedite your project.
@@ -55,7 +58,7 @@ Ultimo NSW
 Drop off hour: Monday – Friday, 10 am – 3 pm
 
 
-## SAMPLE METADATA SHEET
+## Sample Metadata Sheet
 For data analysis, the metadata must be completed before any sequencing work on the samples can begin. Please fill in the excel spreadsheet (we will email it to you on request), and email it to the appropriate contact as soon as possible. Please follow the instruction within the spreadsheet, and if you are missing information for some of these fields please contact us for further advise.
 
 ## Sample Quality Control and Re-submission
