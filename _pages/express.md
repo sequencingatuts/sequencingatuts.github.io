@@ -4,7 +4,7 @@ layout: home
 author_profile: false
 permalink: /small_target_express/
 ---
-<h1> Low Coverage Express Sequencing Service </h1>
+<h1> Small Target Express Sequencing Service </h1>
 
 This service is suitable for plasmids or small linear DNA targets longer than 500 bp.
 
@@ -12,7 +12,7 @@ The service includes:
 - QC of the DNA sample
 - Library preparation and QC
 - Sequencing on the Illumina MiSeq in 2x150bp mode
-- Electronic delivery of a FastQ file per sample. The output is at least 1Mbp per sample (50x coverage for 20 kb plasmid).
+- Electronic delivery of a FastQ file per sample. The output is at least 1 Mbp per sample (50x coverage for 20 kb plasmid).
 - Fast turnaround time 48-72 hrs
 
 
