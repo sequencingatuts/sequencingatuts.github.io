@@ -2,9 +2,9 @@
 # front matter tells Jekyll to process Liquid
 layout: home
 author_profile: false
-permalink: /small_target_express/
+permalink: /small-target-express-dna-sequencing/
 ---
-<h1> Small Target Express Sequencing Service </h1>
+<h1> Small Target Express DNA Sequencing Service </h1>
 
 This service is suitable for plasmids or small linear DNA targets longer than 500 bp.
 

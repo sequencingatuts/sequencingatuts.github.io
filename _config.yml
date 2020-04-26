@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sequencing @ UTS"
+title                    : "UTS NGS Sequencing Facility - Sequencing at UTS"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "UTS Sequencing Facility"
 description              : "Univeristy of Technology Sydney Core Sequencing Facility provides Next Generation Sequencing (NGS) services at the affordable pricing."
-url                      : "https://sequencingatuts.github.io"
+url                      : "https://www.sequencingatuts.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sequencingatuts/sequencingatuts.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "UTS Sequencing Facility"
+masthead_title           : "UTS Next Generation Sequencing Facility"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -77,7 +77,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : google9d258050e87e3112.html
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :

@@ -2,9 +2,9 @@
 # front matter tells Jekyll to process Liquid
 layout: home
 author_profile: false
-permalink: /amplicon/
+permalink: /16S-rrNA-amplicon-sequencing/
 ---
-<h1> 16S Amplicon sequencing </h1>
+<h1> 16S rRNA Amplicon Sequencing </h1>
 
 The service includes:
 - QC of the DNA
@@ -26,4 +26,3 @@ The service includes:
 |More than 48 	   |  $65	                     |$75                                  |
 
 For other amplicon sequencing services such as ITS, please contact the facility for a quote: ngsfacility@uts.edu.au
-

@@ -2,7 +2,7 @@
 # front matter tells Jekyll to process Liquid
 layout: home
 author_profile: false
-permalink: /submission_guide/
+permalink: /sample-submission-guide/
 ---
 <h1> Sample Submission Guide </h1>
 

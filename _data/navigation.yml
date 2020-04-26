@@ -4,14 +4,14 @@ main:
     url: /
   - title: "Services"
     sublinks:
-      - title: "Bacterial WGS"
-        url: /wgs/
-      - title: "16S Amplicon Sequencing"
-        url: /amplicon/
-      - title: "Small Target Express Sequencing"
-        url: /small_target_express/
+      - title: "Bacterial Whole Genome Sequencing"
+        url: /bacterial-whole-genome-sequencing/
+      - title: "16S rRNA Sequencing"
+        url: /16S-rrNA-amplicon-sequencing/
+      - title: "Small Target DNA Sequencing  (Express)"
+        url: /small-target-express-dna-sequencing/
   - title: "Sample Submission Guide"
-    url: /submission_guide/
+    url: /sample-submission-guide/
   - title: "Contact us"
     url: /#contact_us
   # - title: "Sample Collections"
