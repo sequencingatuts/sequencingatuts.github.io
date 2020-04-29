@@ -41,21 +41,20 @@ All samples should be securely sealed, including wrapping with parafilm membrane
 ## Transport
 It is recommended to transport samples on dry ice, and because shipping dry-iced goods requires special packaging, please ask the courier about special instructions for shipping dry ice content. For more details, please consult the courier’s local representatives. Depending upon the quality of the insulated shipping container and the samples, 3 to 5 kilograms of dry ice should be used for each 24-hour period.  We recommend using a minimum of 3 kilograms and ideally 5 kilograms of dry ice. In addition, please try to ensure that the package is tightly sealed and labeled correctly.
 
-By post:
+By post:<br>
+Kay Anantanawat <br>
+Sequencing Facility, ithree institute <br>
+UTS Facility of Science Store  <br>       
+Level 2 Building 1   <br>                 
+Thomas Street, Ultimo  <br>               
+NSW, Australia 2007  <br>                 
+Tel: +61 (2) 9514 1601	<br>
 
-Kay Anantanawat
-Sequencing Facility, ithree institute
-UTS Facility of Science Store         
-Level 2 Building 1                    
-Thomas Street, Ultimo                 
-NSW, Australia 2007                   
-Tel: +61 (2) 9514 1601	Ithree institute UTS
-
-In Person:
-Level 7 Building 4
-Cnr of Thomas Street and Harris Street
-Ultimo NSW
-Drop off hour: Monday – Friday, 10 am – 3 pm
+In Person: <br>
+Level 7 Building 4 <br>
+Cnr of Thomas Street and Harris Street <br>
+Ultimo NSW <br>
+Drop off hour: Monday – Friday, 10 am – 3 pm <br>
 
 
 ## Sample Metadata Sheet
