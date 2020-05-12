@@ -39,7 +39,7 @@ All samples should be securely sealed, including wrapping with parafilm membrane
 ![The direction of the samples on a 96-well plate](/assets/img/plate.png)
 
 ## Transport
-It is recommended to transport samples on dry ice, and because shipping dry-iced goods requires special packaging, please ask the courier about special instructions for shipping dry ice content. For more details, please consult the courier’s local representatives. Depending upon the quality of the insulated shipping container and the samples, 3 to 5 kilograms of dry ice should be used for each 24-hour period.  We recommend using a minimum of 3 kilograms and ideally 5 kilograms of dry ice. In addition, please try to ensure that the package is tightly sealed and labeled correctly.
+It is recommended to transport samples on dry ice, and because shipping dry-iced goods requires special packaging, please ask the courier about special instructions for shipping dry ice content. For more details, please consult the courier’s local representatives. Depending upon the quality of the insulated shipping container and the samples, 3 to 5 kilograms of dry ice should be used for each 24-hour period. We recommend using a minimum of 3 kilograms and ideally 5 kilograms of dry ice. In addition, please try to ensure that the package is tightly sealed and labeled correctly.
 
 By post:<br>
 Kay Anantanawat <br>
