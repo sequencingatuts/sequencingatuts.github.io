@@ -45,10 +45,10 @@ By post:<br>
 Kay Anantanawat <br>
 Sequencing Facility, ithree institute <br>
 UTS Science Store<br>       
-Level 2 Building 1<br>                 
-Thomas Street, Ultimo<br>               
-NSW, Australia 2007<br>                 
-Tel: +61 (2) 9514 1601<br>
+Level 2 Building 1                 
+Thomas Street, Ultimo               
+NSW, Australia 2007                 
+Tel: +61 (2) 9514 1601
 
 In Person: <br>
 Level 7 Building 4 <br>
