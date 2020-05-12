@@ -44,7 +44,7 @@ It is recommended to transport samples on dry ice, and because shipping dry-iced
 By post:<br>
 Kay Anantanawat <br>
 Sequencing Facility, ithree institute <br>
-UTS Science Store<br>       
+UTS Science Store      
 Level 2 Building 1                 
 Thomas Street, Ultimo               
 NSW, Australia 2007                 
