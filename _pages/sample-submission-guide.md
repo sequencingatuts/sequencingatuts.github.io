@@ -70,13 +70,13 @@ In the case resubmitting after failed QC, the client must pay the cost of QC the
 
 ## Sample Processing, Analysis and Data Delivery
 ### Sample Processing
-Once the samples are accepted, the UTS Sequencing facility will move forward to processing your samples.
+Once the samples are accepted, the UTS Sequencing facility will move forward to processing your samples. All samples will be discarded 30 days after data delivery. If you would like to keep your samples, please let us know and arrange the samples to be picked up as soon as possible.  
 
 ### Analysis
 The facility will assess the data output to determine whether it has passed or failed. We provide the sequencing summary report including the data output, fastq files, fasta and .gfa files for assemblies, NCBI Bioproject numbers and NCBI Biosample numbers for samples submitted onto NCBI databases. Should you need any other file(s) that is not part of the standard deliverables please contact us and we will do our best to accommodate your request.
 
 ### Data Delivery
-Data is shared with the client through a download link that is emailed to the client. We will then move forward to invoicing for your project.
+Data is shared with the client through a download link that is emailed to the client. <strong> All data will be deleted 30 days after delivery. </strong> We will then move forward to invoicing for your project.
 
 For further information please contact:<br>
 Dr Kay Anantanawat<br>
