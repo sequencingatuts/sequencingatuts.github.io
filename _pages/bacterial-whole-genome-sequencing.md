@@ -34,7 +34,7 @@ Vast amounts of sequencing data never become available in public databases (NCBI
 |Data submission on NCBI database*   |       ✔︎      |          |        |
 |:===================================|:============:|:========:|:======:|
 |Price per sample                                                       |
-|UTS Researchers                     |       65<sup>*</sup>    |    90    |   80   |
-|Non-UTS Researchers                 |       80<sup>*</sup>     |   110    |   100  |
+|UTS Researchers                     |       75<sup>*</sup>    |    100    |   90   |
+|Non-UTS Researchers                 |       90<sup>*</sup>     |   120    |   110  |
 
 *The data will need to be submitted by UTS sequencing facility through the NCBI database to be eligible for this price. The data will be embargo for 1 year. The facility does not own the data.
