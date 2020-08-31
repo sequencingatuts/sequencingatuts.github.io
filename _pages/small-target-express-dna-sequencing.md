@@ -18,9 +18,9 @@ The service includes:
 
 |Number of samples | Price for UTS researchers |	Price for external researchers |
 |:-----------------|:-------------------------:|:-----------------------------------:|
-|Minimum 8         |	$80	                     |$110                                 |
-| 9-16 	           |  $75 	                   |$105                                 |
-|17-32             |  $70                      |$100                                 |
-|33-48             |  $65                      | $95                                 |
+|Minimum 8         |	$90	                     |$120                                 |
+| 9-16 	           |  $85 	                   |$115                                 |
+|17-32             |  $80                      |$110                                 |
+|33-48             |  $75                      | $105                                 |
 
 For 49 samples or more please contact the facility for the discount via ngsfacility@uts.edu.au.
