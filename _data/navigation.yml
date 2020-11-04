@@ -12,6 +12,8 @@ main:
         url: /small-target-express-dna-sequencing/
   - title: "Sample Submission Guide"
     url: /sample-submission-guide/
+  - title: "Resources"
+    url: /resources/
   - title: "Contact us"
     url: /#contact_us
   # - title: "Sample Collections"
