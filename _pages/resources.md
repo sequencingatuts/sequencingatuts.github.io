@@ -6,7 +6,7 @@ permalink: /resources/
 ---
 <h1> Resources </h1>
 
-<h2> General sequencing using Illumina technology </h2>
+<h2> General sequencing information using Illumina technology </h2>
 
 [Illumina support information for experimental planning](https://www.illumina.com/science/technology/next-generation-sequencing/plan-experiments.html?langsel=/us/)
 The site includes general information on Illumina sequencing technology such as sequencing coverage, sequencing quality scores and sequencing read length.
