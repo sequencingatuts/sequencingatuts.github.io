@@ -6,7 +6,7 @@ permalink: /resources/
 ---
 <h1> Resources </h1>
 
-<h2> Up-coming seminar </h2>
+<h2> Upcoming seminar </h2>
 <u>March 18th 2020</u><br>
 
 [Using Illumina sequencing technology to explore the bacterial genome]({{ site.baseurl }}{% link /assets/files/Illumina_Mar21_seminar_poster.pdf %})<br>
