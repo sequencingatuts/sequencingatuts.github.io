@@ -7,8 +7,7 @@ permalink: /resources/
 <h1> Resources </h1>
 
 <h2> Upcoming seminar </h2>
-<u>March 18th 2020</u><br>
-
+March 18th 2020<br>
 [Using Illumina sequencing technology to explore the bacterial genome]({{ site.baseurl }}{% link /assets/files/Illumina_Mar21_seminar_poster.pdf %})<br>
 Register your attendance [here](https://surveys.uts.edu.au/engine/survey.cfm?SessionId=9B62A89D-5056-8B4D-A671AD0A9D590B3A&CurrentPage=1)
 
