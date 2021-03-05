@@ -9,7 +9,7 @@ permalink: /resources/
 <h2> Upcoming seminar </h2>
 
 [Using Illumina sequencing technology to explore the bacterial genome]({{ site.baseurl }}{% link /assets/files/Illumina_Mar21_seminar_poster.pdf %}) - Thursday 18th March 2021, 11am - 12 pm <br>
-Register your attendance [here](https://surveys.uts.edu.au/engine/survey.cfm?SessionId=04CEB7A2-5056-8BDD-E1688C121AA4F35E&CurrentPage=1)
+Register your attendance [here](http://surveys.uts.edu.au/index.cfm?surveyid=11419)
 
 <h2> General sequencing information using Illumina technology </h2>
 
