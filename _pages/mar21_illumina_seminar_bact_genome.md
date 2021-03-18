@@ -33,3 +33,5 @@ The seminar was 45 mins long with 15 mins Q&A.
 <video width="480" height="320" controls="controls">
   <source src="/assets/img/mar21_seminar_video_1920x1080.mp4" type="video/mp4">
 </video>
+
+[The pdf files for the slides.]{% link /assets/files/UTS_Seminar_Using_Illumina_Sequencing_Technology_to_Explore_The_Bacterial_Genome_18-MAR-2021.pdf %}
