@@ -12,12 +12,18 @@ Location: CB11.04.205
 
 Sequencing and bioinformatic experts from Illumina will be giving a seminar on the use of Illumina short read sequencing technology to explore the bacterial genome.
 
-The topics include:  
+The topics include:
+
 •	Understanding the Illumina MiSeq system and library preparation
+
 •	Introduction to BaseSpace Sequence Hub
+
 •	Understanding bacterial whole genome alignment and variant calling
+
 Presenters:
+
 •	Dr Bjorn Espedido (Illumina Senior Field Application Scientist)
+
 •	Dr Zhiliang Chen (Illumina Senior Bioinformatics Sales Specialist)
 The seminar is 45 mins long with 15 mins Q&A.
 
