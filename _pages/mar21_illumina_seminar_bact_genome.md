@@ -30,5 +30,5 @@ The seminar is 45 mins long with 15 mins Q&A.
 <h2> Seminar record </h2>
 
 <video width="480" height="320" controls="controls">
-  <source src="assets/img/mar21_seminar_video_1920x1080.mp4" type="video/mp4">
+  <source src="/assets/img/mar21_seminar_video_1920x1080.mp4" type="video/mp4">
 </video>
