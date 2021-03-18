@@ -8,7 +8,7 @@ permalink: /resources/
 
 <h2> Upcoming seminar </h2>
 
-[Using Illumina sequencing technology to explore the bacterial genome]({% post_url mar21_illumina_seminar_bact_genome %}) - Thursday 18th March 2021, 11am - 12 pm <br>
+[Using Illumina sequencing technology to explore the bacterial genome]({% link _pages/mar21_illumina_seminar_bact_genome.md %}) - Thursday 18th March 2021, 11am - 12 pm <br>
 
 <h2> General sequencing information using Illumina technology </h2>
 
