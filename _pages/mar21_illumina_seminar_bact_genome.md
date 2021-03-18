@@ -2,27 +2,27 @@
 # front matter tells Jekyll to process Liquid
 layout: home
 author_profile: false
-permalink: /small-target-express-dna-sequencing/
+permalink: /mar21_illumina_seminar_bact_genome/
 ---
-<h1> Small Target DNA Sequencing Express Service </h1>
+<h1> Seminar: Using Illumina sequencing technology to explore the bacterial genome </h1>
 
-This service is suitable for plasmids or small linear DNA targets longer than 500 bp.
+Date: Thursday 18th March 2021
+Time: 11:00 -12:00
+Location: CB11.04.205
 
-The service includes:
-- QC of the DNA sample
-- Library preparation and QC
-- Sequencing on the Illumina MiSeq in 2x150bp mode
-- Electronic delivery of a FastQ file per sample. The output is at least 1 Mbp per sample (50x coverage for 20 kb plasmid).
-- Fast turnaround time 48-72 hrs*
+Sequencing and bioinformatic experts from Illumina will be giving a seminar on the use of Illumina short read sequencing technology to explore the bacterial genome.
 
-*This turn around time only apply to the submission of at least 8 samples. For the submission with less than 8 samples, the turn around time is 1-2 weeks.
+The topics include:  
+•	Understanding the Illumina MiSeq system and library preparation
+•	Introduction to BaseSpace Sequence Hub
+•	Understanding bacterial whole genome alignment and variant calling
+Presenters:
+•	Dr Bjorn Espedido (Illumina Senior Field Application Scientist)
+•	Dr Zhiliang Chen (Illumina Senior Bioinformatics Sales Specialist)
+The seminar is 45 mins long with 15 mins Q&A.
 
+<h2> Seminar record </h2>
 
-|Number of samples | Price for UTS researchers |	Price for external researchers |
-|:-----------------|:-------------------------:|:-----------------------------------:|
-|Minimum 8         |	$90	                     |$120                                 |
-| 9-16 	           |  $85 	                   |$115                                 |
-|17-32             |  $80                      |$110                                 |
-|33-48             |  $75                      | $105                                 |
-
-For 49 samples or more please contact the facility for the discount via ngsfacility@uts.edu.au.
+<video width="480" height="320" controls="controls">
+  <source src="mar21_seminar_video_1920x1080.mp4" type="video/mp4">
+</video>
