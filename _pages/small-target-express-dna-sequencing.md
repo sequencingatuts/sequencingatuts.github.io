@@ -14,6 +14,7 @@ The service includes:
 - Sequencing on the Illumina MiSeq in 2x150bp mode
 - Electronic delivery of a FastQ file per sample. The output is at least 1 Mbp per sample (50x coverage for 20 kb plasmid).
 - Fast turnaround time 48-72 hrs*
+- Free data analysis including de novo assembly, mapping and variants calling. 
 
 *This turn around time only apply to the submission of at least 8 samples. For the submission with less than 8 samples, the turn around time is 1-2 weeks. 
 
