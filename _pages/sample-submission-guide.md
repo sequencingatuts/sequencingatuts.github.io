@@ -13,7 +13,7 @@ permalink: /sample-submission-guide/
 - Please submit your samples TOGETHER with the sample submission form.
 
 ## Sample Submission Form
-[Download Sample Submission Form]({{ site.baseurl }}{% link /assets/files/UTS_Seq_Sample_Submission_V8.xltx %})
+[Download Sample Submission Form]({{ site.baseurl }}{% link /assets/files/UTS_Seq_Sample_Submission_V8.xltx%})
 
 ## Sample Quality and Quantity Requirement
 Once we receive your samples we will perform quality control analysis to determine the quality, concentration and volume of your samples to ensure that we have a sufficient amount. We strongly recommend that you perform your own sample QC to ensure the correct concentration of sample is shipped. This will help to expedite your project.
