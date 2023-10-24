@@ -22,7 +22,7 @@ The service includes:
 
 |Number of samples | Price for UTS researchers |	Price for external researchers |
 |:-----------------|:-------------------------:|:-----------------------------------:|
-|1-48              |	$75	                     |$85                                  |
-|More than 48 	   |  $65	                     |$75                                  |
+|1-48              |	$85	                     |$95                                  |
+|More than 48 	   |  $75	                     |$85                                  |
 
 For other amplicon sequencing services such as ITS, please contact the facility for a quote: ngsfacility@uts.edu.au
