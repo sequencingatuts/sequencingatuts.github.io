@@ -42,8 +42,8 @@ All samples should be securely sealed, including wrapping with parafilm membrane
 DNA samples can be shipped in room temperature. For RNA or tissue samples, please ship on dry ice. Depending upon the quality of the insulated shipping container and the samples, 3 to 5 kilograms of dry ice should be used for each 24-hour period. We recommend using a minimum of 3 kilograms and ideally 5 kilograms of dry ice. In addition, please try to ensure that the package is tightly sealed and labeled correctly.
 
 By post:<br>
-Joyce To <br>
-Sequencing Facility, ithree institute <br>
+Deepa Panicker <br>
+Sequencing Facility, AIMI <br>
 UTS Science Store      
 Level 2 Building 1                 
 Thomas Street, Ultimo               
