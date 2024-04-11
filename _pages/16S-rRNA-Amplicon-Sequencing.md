@@ -25,5 +25,5 @@ The service includes:
 |*1-48              |	$85	                     |$95                                  |
 |More than 48 	   |  $75	                     |$85                                  |
 
-* There is a minimum number of samples submission needed to be eligible for this price.Please contact the facility for more details
+* There is a minimum number of samples submission needed to be eligible for this price.Please contact the facility for more details.
 For other amplicon sequencing services such as ITS, please contact the facility for a quote: ngsfacility@uts.edu.au  
